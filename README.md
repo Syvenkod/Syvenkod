@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, Angular
 - 🌱 I’m currently learning ITVDN 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me syvenkod@gmail.com
 
 <!---
 Syvenkod/Syvenkod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
