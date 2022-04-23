@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syvenkod
-- 👀 I’m interested in JS, Angular
+- 👀 I’m interested in JS, Angular, TypeScript
 - 🌱 I’m currently learning ITVDN 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syvenkod@gmail.com
