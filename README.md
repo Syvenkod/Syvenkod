@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syvenkod
-- 👀 I’m interested in HTML5, CSS3, SCSS, JS, Angular, TypeScript
+- 👀 I’m interested in HTML5, CSS3, SCSS, JS, Angular, TypeScript, Linux, Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syvenkod@gmail.com
 
